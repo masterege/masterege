@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ege,
+- 🌱 I’m currently learning C++ Language.
