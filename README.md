@@ -1,2 +1,4 @@
-- 👋 Hi, I’m Ege,
+- 👋 Hi, I’m Ege, 26 years old.
 - 🌱 I’m currently learning C++ Language.
+- Proficient in Python, SQL, R, MATLAB.
+- I work on my own Learning Management System Project: using Django Framework.
