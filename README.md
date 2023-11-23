@@ -7,5 +7,6 @@
 - MATLAB: Proficient in MATLAB for numerical computing and algorithm development.
 - SQL: Skilled in working with relational databases using SQL.
 - C++: Strong foundation in C++ with a focus on implementing data structures and blueprints for efficient programming.
+- Haskell: Functional Programming Concepts
 
 🎓 As an avid learner, I'm dedicated to expanding my expertise in these technologies and applying them to real-world challenges.
