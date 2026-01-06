@@ -1,4 +1,4 @@
-👋 Hello, I'm Ege, a 28-year-old student pursuing a master's degree in Industrial Analytics at Uppsala University. I specialize in the Computer Science branch of the program, with a focus on leveraging cutting-edge technologies for data-driven insights.
+👋 Hello, I'm Ege, a 28-year-old student with a master's degree in Industrial Analytics at Uppsala University. I specialize in the Computer Science branch of the program, with a focus on leveraging cutting-edge technologies for data-driven insights.
 
 💻 Tech Stack:
 - Java: Proficient in object-oriented programming (OOP), building RESTful APIs, and Java frameworks for backend development. Skilled in working with data structures, and multithreading. Experienced in using Apache Spark with Java for big data processing.
